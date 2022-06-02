@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ffurkkann
-- 👀 I’m interested in Post Quantum Cryptograpy, DSP, RTL designs in VHDL(w/ Xilinx Products), Python and C++
+- 👀 I’m interested in Post Quantum Cryptograpy, DSP, RTL designs in VHDL(w/ Xilinx Products), Python and C/C++
 - 🌱 I’m currently learning C++ and Cryptography
 - 📫 How to reach me: canf16@itu.edu.tr
 
